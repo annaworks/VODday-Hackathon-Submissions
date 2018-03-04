@@ -2,7 +2,7 @@
 *This is a sample submission repository for Open Data Hackathon Projects. You can [fork this repo](https://help.github.com/articles/fork-a-repo/) and use this as a starting point.*
 
 ## Team Name
-*Choose a fun team name!*
+LifestyleR
 
 
 
